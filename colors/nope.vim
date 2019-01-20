@@ -1,9 +1,9 @@
 " gvim color scheme
 "
-" author: Iris Ilexiris <iris.ilexiris@gmail.com>
+" Maintainer: Iris Ilexiris <iris.ilexiris@gmail.com>
 "
 " based on ``slate'' by Ralph Amissah <ralph@amissah.com>
-" it was in turn is based on ``desert'' by Hans Fugal <hans@fugal.net>
+" which was in turn based on ``desert'' by Hans Fugal <hans@fugal.net>
 
 set background=light
 highlight clear
