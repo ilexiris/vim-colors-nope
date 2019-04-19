@@ -24,6 +24,7 @@ hi LineNr guibg=#dddddd guifg=#333333 gui=NONE
 hi Type guibg=#cccccc guifg=#111111 gui=bold
 hi Identifier guibg=#cccccc guifg=#111111 gui=bold
 hi Function guibg=#cccccc guifg=#111111 gui=bold
+hi ColorColumn guibg=#bbbbbb
 " whitespace: tabs,spaces
 hi SpecialKey guibg=#cccccc guifg=#aaaaaa gui=NONE
 " whitespace: preceding,trailing,eol
